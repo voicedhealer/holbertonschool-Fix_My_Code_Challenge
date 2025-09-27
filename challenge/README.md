@@ -118,6 +118,6 @@ Apprentissage du débogage et résolution de problèmes [memory:4]
 ---
 
 *Ce repository fait partie du curriculum Holberton School axé sur l'apprentissage collaboratif et par projet* [web:22][web:24]
-```
+
 
 Ce README reflète la philosophie d'apprentissage de Holberton School tout en documentant spécifiquement les défis de débogage de code, incluant l'analyse du problème FizzBuzz que nous avons identifié ensemble.

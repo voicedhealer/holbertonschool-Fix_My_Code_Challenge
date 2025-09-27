@@ -2,23 +2,23 @@
 
 def fizzbuzz(n):
     """
-    Fonction qui affiche les nombres de 1 à n avec:
-    - 'Fizz' pour les multiples de 3
-    - 'Buzz' pour les multiples de 5
-    - 'FizzBuzz' pour les multiples de 3 ET 5
-    - Le nombre pour les autres cas
+    Prints numbers from 1 to n with:
+    - 'Fizz' for multiples of 3
+    - 'Buzz' for multiples of 5  
+    - 'FizzBuzz' for multiples of both 3 and 5
+    All outputs on the same line separated by spaces
     """
     for i in range(1, n + 1):
         if i % 15 == 0:
-            print('FizzBuzz')
+            print('FizzBuzz', end=' ')
         elif i % 3 == 0:
-            print('Fizz')
+            print('Fizz', end=' ')
         elif i % 5 == 0:
-            print('Buzz')
+            print('Buzz', end=' ')
         else:
-            print(i)
+            print(i, end=' ')
+    print()  # Final newline
 
-# Gestion des arguments de ligne de commande
 if __name__ == '__main__':
     import sys
     if len(sys.argv) != 2:
@@ -28,5 +28,5 @@ if __name__ == '__main__':
         n = int(sys.argv[1])
         fizzbuzz(n)
     except ValueError:
-        print('Erreur: Veuillez entrer un nombre entier')
+        print('Error: Please enter a valid integer')
         sys.exit(1)

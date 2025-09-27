@@ -13,7 +13,6 @@ Le principe est simple : au lieu de créer du code from scratch, il faut analyse
 
 ## Structure du Projet
 
-```
 holbertonschool-Fix_My_Code_Challenge/
 ├── README.md              # Documentation du projet
 ├── challenge/             # Dossier contenant les exercices

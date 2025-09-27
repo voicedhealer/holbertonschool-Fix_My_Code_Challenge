@@ -1,9 +1,5 @@
 # holbertonschool-Fix_My_Code_Challenge
 
-Basé sur les informations disponibles sur les défis "Fix My Code" de Holberton School et l'exercice FizzBuzz que nous avons analysé, voici un README complet pour le repository :
-
-# holbertonschool-Fix_My_Code_Challenge
-
 ## Description
 
 Ce repository contient une série de défis de débogage de code proposés par Holberton School. L'objectif est de développer les compétences de résolution de problèmes en identifiant et corrigeant des bugs dans du code préexistant, couvrant plusieurs langages de programmation [web:22].

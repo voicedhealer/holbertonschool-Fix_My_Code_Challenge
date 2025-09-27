@@ -7,9 +7,9 @@ Ce repository contient une série de défis de débogage de code proposés par H
 
 Le principe est simple : au lieu de créer du code from scratch, il faut analyser, comprendre et corriger des programmes défaillants. Cette approche reflète fidèlement les défis rencontrés dans l'industrie tech [web:24].
 
-
-## Structure du Projet
 ```
+## Structure du Projet
+
 holbertonschool-Fix_My_Code_Challenge/
 ├── README.md              # Documentation du projet
 ├── challenge/             # Dossier contenant les exercices

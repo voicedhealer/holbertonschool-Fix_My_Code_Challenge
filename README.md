@@ -1,12 +1,16 @@
 # holbertonschool-Fix_My_Code_Challenge
 
-## Description
+Basé sur les informations disponibles sur les défis "Fix My Code" de Holberton School et l'exercice FizzBuzz que nous avons analysé, voici un README complet pour le repository :
+
 ```markdown
+# holbertonschool-Fix_My_Code_Challenge
+
+## Description
+
 Ce repository contient une série de défis de débogage de code proposés par Holberton School. L'objectif est de développer les compétences de résolution de problèmes en identifiant et corrigeant des bugs dans du code préexistant, couvrant plusieurs langages de programmation [web:22].
 
 Le principe est simple : au lieu de créer du code from scratch, il faut analyser, comprendre et corriger des programmes défaillants. Cette approche reflète fidèlement les défis rencontrés dans l'industrie tech [web:24].
 
-```
 ## Structure du Projet
 
 holbertonschool-Fix_My_Code_Challenge/
@@ -18,7 +22,6 @@ holbertonschool-Fix_My_Code_Challenge/
 │   ├── 3-user.py         # Challenge classe User (Python)
 │   └── 4-delete_dnodeint # Challenge liste doublement chaînée (C)
 └── original_buggy_files/  # Fichiers originaux avec bugs
-```
 
 ## Langages Couverts
 
@@ -66,7 +69,7 @@ Ce projet suit la pédagogie Holberton School basée sur :
 - Ruby (pour les fichiers Ruby)
 
 ### Exécution
-```
+
 # Clone du repository
 git clone https://github.com/voicedhealer/holbertonschool-Fix_My_Code_Challenge.git
 cd holbertonschool-Fix_My_Code_Challenge/challenge
@@ -113,6 +116,6 @@ Apprentissage du débogage et résolution de problèmes [memory:4]
 ---
 
 *Ce repository fait partie du curriculum Holberton School axé sur l'apprentissage collaboratif et par projet* [web:22][web:24]
-```
+
 
 Ce README reflète la philosophie d'apprentissage de Holberton School tout en documentant spécifiquement les défis de débogage de code, incluant l'analyse du problème FizzBuzz que nous avons identifié ensemble.

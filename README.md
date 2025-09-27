@@ -1,8 +1,7 @@
-```markdown
 # holbertonschool-Fix_My_Code_Challenge
 
 ## Description
-
+```markdown
 Ce repository contient une série de défis de débogage de code proposés par Holberton School. L'objectif est de développer les compétences de résolution de problèmes en identifiant et corrigeant des bugs dans du code préexistant, couvrant plusieurs langages de programmation [web:22].
 
 Le principe est simple : au lieu de créer du code from scratch, il faut analyser, comprendre et corriger des programmes défaillants. Cette approche reflète fidèlement les défis rencontrés dans l'industrie tech [web:24].

@@ -11,7 +11,7 @@ Ce repository contient une série de défis de débogage de code proposés par H
 Le principe est simple : au lieu de créer du code from scratch, il faut analyser, comprendre et corriger des programmes défaillants. Cette approche reflète fidèlement les défis rencontrés dans l'industrie tech [web:24].
 
 ## Structure du Projet
-
+```
 holbertonschool-Fix_My_Code_Challenge/
 ├── README.md              # Documentation du projet
 ├── challenge/             # Dossier contenant les exercices
@@ -21,7 +21,7 @@ holbertonschool-Fix_My_Code_Challenge/
 │   ├── 3-user.py         # Challenge classe User (Python)
 │   └── 4-delete_dnodeint # Challenge liste doublement chaînée (C)
 └── original_buggy_files/  # Fichiers originaux avec bugs
-
+```
 ## Langages Couverts
 
 - **Python** (~39.1%) - Logique algorithmique, POO
@@ -79,7 +79,7 @@ node 1-print_square.js
 ruby 2-sort.rb
 python3 3-user.py
 gcc 4-delete_dnodeint/*.c -o test && ./test
-```
+
 
 ## Compétences Développées
 

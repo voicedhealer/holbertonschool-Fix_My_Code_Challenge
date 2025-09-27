@@ -4,20 +4,21 @@ def fizzbuzz(n):
     """
     Prints numbers from 1 to n with:
     - 'Fizz' for multiples of 3
-    - 'Buzz' for multiples of 5  
+    - 'Buzz' for multiples of 5
     - 'FizzBuzz' for multiples of both 3 and 5
-    All outputs on the same line separated by spaces
+    Output format: all on one line, space-separated, NO trailing space
     """
+    result = []
     for i in range(1, n + 1):
         if i % 15 == 0:
-            print('FizzBuzz', end=' ')
+            result.append('FizzBuzz')
         elif i % 3 == 0:
-            print('Fizz', end=' ')
+            result.append('Fizz')
         elif i % 5 == 0:
-            print('Buzz', end=' ')
+            result.append('Buzz')
         else:
-            print(i, end=' ')
-    print()  # Final newline
+            result.append(str(i))
+    print(' '.join(result))
 
 if __name__ == '__main__':
     import sys

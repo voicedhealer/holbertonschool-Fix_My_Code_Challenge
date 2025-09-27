@@ -2,7 +2,6 @@
 
 Basé sur les informations disponibles sur les défis "Fix My Code" de Holberton School et l'exercice FizzBuzz que nous avons analysé, voici un README complet pour le repository :
 
-```markdown
 # holbertonschool-Fix_My_Code_Challenge
 
 ## Description

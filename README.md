@@ -69,7 +69,7 @@ Ce projet suit la pédagogie Holberton School basée sur :
 ### Exécution
 ```
 # Clone du repository
-git clone https://github.com/[voicedhealer]/holbertonschool-Fix_My_Code_Challenge.git
+git clone https://github.com/voicedhealer/holbertonschool-Fix_My_Code_Challenge.git
 cd holbertonschool-Fix_My_Code_Challenge/challenge
 
 # Test des solutions

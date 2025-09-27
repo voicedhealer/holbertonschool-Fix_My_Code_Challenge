@@ -5,7 +5,7 @@ if (process.argv.length !== 3) {
     process.exit(1);
 }
 
-const size = parseInt(process.argv[2]);
+const size = parseInt(process.argv[2], 10);
 if (isNaN(size) || size < 1) {
     console.log('Please provide a positive integer');
     process.exit(1);

@@ -23,7 +23,6 @@ holbertonschool-Fix_My_Code_Challenge/
 │   ├── 3-user.py         # Challenge classe User (Python)
 │   └── 4-delete_dnodeint # Challenge liste doublement chaînée (C)
 └── original_buggy_files/  # Fichiers originaux avec bugs
-```
 
 ## Langages Couverts
 
@@ -71,7 +70,7 @@ Ce projet suit la pédagogie Holberton School basée sur :
 - Ruby (pour les fichiers Ruby)
 
 ### Exécution
-```
+
 # Clone du repository
 git clone https://github.com/voicedhealer/holbertonschool-Fix_My_Code_Challenge.git
 cd holbertonschool-Fix_My_Code_Challenge/challenge
